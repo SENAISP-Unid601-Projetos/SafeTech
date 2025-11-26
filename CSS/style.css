@@ -1586,7 +1586,7 @@ li{
         flex-direction:row;
     }
     .cyan_line{
-        height:187px;
+        height:87px;
         width:2px;
         background-color:#06beb3;
         border-radius:6px;
@@ -1675,7 +1675,7 @@ li{
         height:326px;
         width:217px;
         font-family:font_body;
-        font-size:19px;
+        font-size:16px;
     }
     .funcao_cada:hover{
         height:326px;
